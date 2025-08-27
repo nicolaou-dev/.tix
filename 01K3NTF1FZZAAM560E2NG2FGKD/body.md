@@ -1,0 +1,1 @@
+Add support for 'tix remote add <name> <url>' to manage remote repositories. The FFI binding already exists (tix_remote_add), just need to wire it up in the CLI with RemoteArgs struct and handle_remote function.
