@@ -1,0 +1,1 @@
+Implement CLI move command to change ticket status

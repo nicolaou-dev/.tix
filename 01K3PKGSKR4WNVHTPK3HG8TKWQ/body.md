@@ -1,0 +1,1 @@
+Add mv command to CLI that calls the tix_move FFI function. Command should accept ticket ID and new status. Created mv.rs in ffi module with proper error handling for invalid ticket IDs and invalid status values.
