@@ -1,0 +1,1 @@
+Implement editor mode for tix add command
