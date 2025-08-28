@@ -1,0 +1,1 @@
+Implement tix ls command in CLI

@@ -1,0 +1,1 @@
+Create the list command in Rust CLI that calls the tix_list FFI function. Parse status/priority filters from command line arguments, handle the returned CTicket array, and display results in both default and detailed (-l) formats. Free allocated memory properly.
