@@ -1,0 +1,1 @@
+Add projects functionality to list all available local projects/branches. Should bind to tix_projects() from core library.
