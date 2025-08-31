@@ -1,0 +1,1 @@
+Add redo functionality to reapply previously undone changes. Should bind to tix_redo() from core library.
