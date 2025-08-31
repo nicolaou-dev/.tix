@@ -1,0 +1,1 @@
+Add clone functionality to create local copies of remote repositories. Should bind to tix_clone() from core library.
