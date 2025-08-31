@@ -1,0 +1,1 @@
+Add log functionality to show commit history of changes made to tickets and workspace. Should bind to tix_log() from core library.
