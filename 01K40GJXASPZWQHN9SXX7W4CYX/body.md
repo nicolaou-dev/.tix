@@ -1,0 +1,1 @@
+Add remote add functionality to configure new remote repositories. Should bind to tix_remote_add() from core library.
