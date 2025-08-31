@@ -1,0 +1,1 @@
+Add undo functionality to revert the last change made to tickets or workspace state. Should bind to tix_undo() from core library.
