@@ -1,0 +1,1 @@
+Add remote functionality to list configured remote repositories. Should bind to tix_remote() from core library.
