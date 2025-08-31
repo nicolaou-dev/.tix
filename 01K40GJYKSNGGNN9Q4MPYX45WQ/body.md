@@ -1,0 +1,1 @@
+Add pull functionality to fetch and merge changes from remote repositories. Should bind to tix_pull() from core library.
