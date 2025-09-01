@@ -1,0 +1,1 @@
+Handle merge conflicts with pull
